@@ -1,0 +1,6 @@
+insiasi : - tentukan tahun ajaran
+proses  : - hitung smester bedasarkan tahun ajaran
+          - hitung selisih tahun
+          - hitung total tahun yang sudah berlalu
+          - tahun masuk di kurangi tahun ajaran
+output  : - hasil
