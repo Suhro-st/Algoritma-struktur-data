@@ -1,3 +1,5 @@
-inisiasi : - jari jari dalam cm. luas dalam cm². phi adalah 3,14
+inisiasi : - jari jari dalam cm
+           - luas dalam cm²
+           - phi adalah 3,14
 proses   : - hitung luas = phi x jari jari
 output   : - tampilkan luas
