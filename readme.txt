@@ -6,3 +6,4 @@ mendeteksi bilangan ganjil genap
 
 https://drive.google.com/file/d/1hg0sLMeRnG2RvGJkDrKNPolsioKjOb0P/view?usp=drivesdk
 
+semester mahasiswa tahun masuk
